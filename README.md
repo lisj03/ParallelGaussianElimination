@@ -1,2 +1,2 @@
-# ParallelGaussianElimination_mpi_openmp
+# ParallelGaussianElimination
 the major assignment for the Parallel Computing course at USTB
