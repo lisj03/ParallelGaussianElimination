@@ -1,5 +1,5 @@
 # ParallelGaussianElimination
-the major assignment for the Parallel Computing course at USTB
+The major assignment for the Parallel Computing course at USTB.
 # README
 
 ### 运行环境
